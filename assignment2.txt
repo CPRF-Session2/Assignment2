@@ -1,0 +1,27 @@
+Jinoo Hong
+
+1.  What is the outcome of the following conditional statements if the value of variable x is 5?  Show your work.
+
+a.  ``` x <= 4 || (x != 9  && x > 10) ```
+x<=4 || (True && False)
+False || False
+False
+    
+b.  ``` x > 0 && x < 10 && x != 6 ```
+True && False && True
+False
+    
+c.  ``` x == 1 || x > 0 ```
+False || True
+True
+
+2.  Can we use string value/variable in switch test condition? Why or why not? 
+No because the switch function is not compatible with strings as the variable we can match can only be char or int.
+
+3.  What is wrong with the following code snippet?  As written, what will it do?
+```
+	int userIn;
+	scanf(“%d”, userIn);
+```
+You need an ampersand in front of userIn on the second line as the scanf function needs to know which address in memory to store the user's input as. Furthermore, if you were to compile and run it, as there is no prompt, the user would not be able to know what he/she is supposed to input. 
+
