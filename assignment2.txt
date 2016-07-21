@@ -1,0 +1,12 @@
+Can Parlar - Assignment2
+
+1.A.5 is not smaller than 4 or it is not bigger than 10 so the statement is false.
+
+1.B.5 is bigger than 0, 5 is smaller than 10 and 5 is not equal to 6 so the statement is true.
+
+1.C.5 is not equal to one but it is bigger than 0. So the stament is true.
+
+2.We can use them because string value is a datatype and we can use them for our cases.
+
+3.Inside scanf there is no & symbol before userIn so it will give an error  and will not work.
+
