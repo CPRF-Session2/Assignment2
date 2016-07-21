@@ -1,0 +1,18 @@
+Ashank Kumar
+
+Part 2
+
+1a. False || (True && False)
+    False || False
+The final output is false
+
+1b. True && False && True
+    True && False
+The final output is false
+
+1c. False || True
+The final output is True
+
+2. You cannot use a String in a switch statement because Strings are not primitive data types.
+
+3. The following code snippet is missing a & before userIn. If the data stored from the scanf is printed the following message will appear: Segmentation fault (core dumped)
