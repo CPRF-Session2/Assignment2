@@ -1,0 +1,12 @@
+Rebecca Hale Assignment 2 Part 2
+1.
+a.false or (true and false) = false
+b.true and true and true = true
+c.false or true = true
+
+2. I do not believe that a string value/variable can be used in a switch
+condition because there is no way to represent a string of letters or characters in C, therefore there is no way to compare two variables in one switch.
+
+3. The code is missing the & symbol before the userIn statement in the 
+scanf() function.  This code will result in an error, specifically a 
+segmentation fault.
