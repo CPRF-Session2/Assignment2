@@ -1,0 +1,11 @@
+a. x<= 4 || (x != 9 &* x >10)
+	False || False
+		False
+
+b. x>0 && x<10 &&x != 6
+	True && true && True
+		True
+
+c. x == 1 || x>0
+	False || true
+		true
