@@ -13,5 +13,8 @@ int main()
 	else
 	{
 		printf("The numbers are not equal\n");
+		if(a>b && a>c) printf("%d is the largest\n",a);
+		if(b>a && b>c) printf("%d is the largest\n",b);
+		if(c>b && b>a) printf("%d is the largest\n", c);
 	}
 }
