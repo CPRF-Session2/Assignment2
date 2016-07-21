@@ -1,0 +1,20 @@
+Jared Wasserman
+
+1)
+	A.
+	False||(True&&False) -> False||False
+	Output: False
+
+	B.
+	True&&True&&False
+	Output: False
+
+	C.
+	False||True
+	Output: True
+
+2)
+	No because switch statements can only make one comparison at a time and strings are a bunch of of characters so it would need to compare all of the characters to check if the string was the correct case.
+
+3)
+	There is a missing ampersan before userIn. As written it will give a warning when you compile it and throw a segemention fault when you enter a value in the program.
