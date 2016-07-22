@@ -1,3 +1,4 @@
+/*This program tells whether a user-inputted number is even or odd (integers only!) - Amanda Cuevas*/
 #include <stdio.h>
 int main()
 {

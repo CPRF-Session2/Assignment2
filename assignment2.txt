@@ -1,0 +1,7 @@
+Amanda Cuevas:
+1a) False or false [true && false], so the outcome of the conditional statement is false.
+1b)[True && true && true], so the outcome of the conditional statement is   true.
+1c)[False or true], so the outcome of the conditional statement is true.
+
+2) No, one cannot use a string variable/value in a switch test condition.   "https://en.wikibooks.org" defines a string as "merely an array of characters". Switches only use a single integer or character, and apply a series of code regarding that single integer or character depending on the situation or case, which will differ based on what input the user (or maybe other) the program receives. Since switch statements were made to make an already complicated procedure simpler, the C programming language does not support using strings in switch statements because of the added complexity it would add to the already tumultuous situation.
+3) The following code snippet gives no indication that it is expecting a user input, which could confuse the user if they have no knowledge to the content of the program. Furthermore, if this snippet were to be an entire program on its own, then even if the user did manage to find out that they had to give an input, then there would be nothing done with the input. No code has been added to give the input related to the integer a function.
