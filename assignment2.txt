@@ -1,0 +1,21 @@
+1. What is the outcome of the following conditional statements if the value of variable x is 5? Show your work.
+	a. 5 <= 4 is false
+	   (x != 9 && x > 10) is false because x>10 is false
+	   Therefore, the conditional statement is false 
+
+	b. x > 0 is true
+	   x < 10 is true
+	   x != 6 is true
+	   Therfore, the conditional statement is true
+
+	c. x == 1 is false
+	   x > 0 is true
+	   Therefore, the conditional statement is true
+
+2. Can we use string value/variable in switch test condition? Why or why not?
+  Yes, since the switch expressions can be character strings. 
+
+
+3. What is twrong with the code snippet? As written, what will it do?
+   You need a "&" symbol before userIn since it is a scanf. As written, it won't do anything since the computer won't be able to find memory address where the   variable is stored.  
+
