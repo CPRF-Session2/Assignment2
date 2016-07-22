@@ -1,0 +1,22 @@
+a. x<= 4 || (x != 9 &* x >10)
+	False || False
+		False
+
+b. x>0 && x<10 &&x != 6
+	True && true && True
+		True
+
+c. x == 1 || x>0
+	False || true
+		true
+
+
+
+2. No we cannot use String values in a swtich statement b/c switch's need integral values
+
+3. This code snippet, 
+
+int userIn;
+scan("%d", userIn); 
+
+will throw an error b/c it is missing an '&'. 
