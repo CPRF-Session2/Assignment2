@@ -1,0 +1,24 @@
+Madeleine Charity
+
+ What is the outcome of the following conditional statements if the value of variable x is 5? Show your work.
+
+a. x <= 4 || (x != 9 && x > 10)
+   false(0) || (true (1) && false (0))
+   false (0)|| false (0)
+   the outcome is false
+
+b. x > 0 && x < 10 && x != 6
+   true (1) && true (1) && true (1)
+   final outcome is true (1)
+
+c. x == 1 || x > 0
+   false (0) || true (1)
+   final outcome is true (1)
+   
+Can we use string value/variable in switch test condition? Why or why not?
+Yes, the value of the variable could be a string, and if the cases string matched the string attached to the variable, then the statements  would be carried out. For example, if the variable was; string name= "Madeleine" and there were cases; case "Olivia", case "Emma" and case "Madeleine", the statements for case "Madeleine" would be executed.  
+
+What is wrong with the following code snippet? As written, what will it do?
+	int userIn;
+	scanf(“%d”, userIn);
+This code is wrong because there is no "&" infront of "userIn" so it will produce a runtime error. 
