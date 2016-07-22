@@ -1,0 +1,17 @@
+1.   a) 5 is equal or less than 4 - false
+	5 does not equal 9 - true
+	5 is larger than 10 - false
+	false || false == FALSE
+
+     b) 5 is larger than 0 - true
+	5 is smaller than 10 - true
+	5 does not equal 6 - true
+	true && true && true == TRUE
+
+     c) 5 equals 1 - false
+	5 is larger than 0 - true
+	false || true == TRUE
+
+2. Yes, because strings can be stored in a variable and that data type can be used in a case.
+
+3. There needs to be an adress operator because scanf() requires a pointer. It will give a warning when compiled, and if you still execute the code, there will be a runtime error which dumps the core.
