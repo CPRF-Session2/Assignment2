@@ -17,4 +17,7 @@ int main()
 		if(b>a && b>c) printf("%d is the largest\n",b);
 		if(c>b && c>a) printf("%d is the largest\n", c);
 	}
+
+	int sum = a+b+c;
+	printf("The sum of the numbers is %d", sum);
 }
