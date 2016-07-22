@@ -1,0 +1,25 @@
+Armstrong Park Theory
+
+1.)
+	It is false. This is because although five is not nine, five is still not greater than ten, and is also not less than four. Therefore it is still false
+
+2.)
+	This is true because it checks out for each one of the conditions. 
+
+3.) 	
+	This is true because although 5 is not equal to one, it is still greater than zero, and because this is an or statement, if even one of the conditions is met, then it is considered true.
+
+
+
+
+
+1.) Can we use string value/variable in switch test condition? Why or why not? 
+	Answer:
+		No because c only accepts integers enumerated data types and characters.
+
+
+2.)
+	Answer:
+		The aspect of this code that is incorrect is the fact that there is no & before the a value after "%d". the &a is an adress that guides the computer where to store the value given to it by the user. Without the & the computer will try to interpret the adress but will fail in the end, thus you end up with a run time error.
+
+
