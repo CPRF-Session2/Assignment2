@@ -1,0 +1,6 @@
+Mariposa Lee
+1a. False || False. The output is therefore false.
+1b. True and true and true. The output is therefore true. 
+1c. False and true. The output is therefore true.
+2. No, because if you're using switch, the expression should be a character or integer, which stores either one character or one integer, while strings would have multiple characters. 
+3. The code has a missing semicolon on the second line before "userIn". Without the semicolon, the code wouldn't compile properly, because the memory address for the variable is missing. 
