@@ -1,0 +1,28 @@
+Matthew Kellerman
+1.
+a
+5 is less than or equal to 4(false)
+5 is not equal to 9(true)
+5 is not greather than 10 (false)
+The first part is false, and the second part is false since evem though one of the statments is true, it uses the &&. And since one statement is false, the second part is false. This means the whole code is false since false or false is false.
+
+b.
+5 is greather than 0 (true)
+5 is less than 10 (true)
+5 does not equal 6 (true)
+Since && is used and all the statments are true, the entire code is true.
+
+c.
+5 equals 1(false)
+5 is greather than 0 (true)
+Since  || is used, only one statement needs to be true to make the entire 
+code true. And since one statement is true, the entire code is true.
+
+2.
+We can not use string/variable in switch test condition. We can because we
+can't assign a variable equal to a string.
+
+3.
+The following code snippet does not have &. This does not give the input a  memory address. This code will take the user input, but it won't store the 
+input value. This means this variable won't be able to be accessed. This 
+code could also give the user an error.
